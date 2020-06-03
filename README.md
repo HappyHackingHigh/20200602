@@ -29,8 +29,9 @@ Hitcon_DataMining....
 
 # CDX實習環境
 ```
-[1]下載FORTI
-[2]使用FORTIW透過vpn連線到CDX
+[1]下載FortiClient
+https://www.forticlient.com/downloads
+[2]使用FortiClient透過vpn連線到CDX國家高速網路與計算中心
 [3]打開瀏覽器並登入
    帳密上課時公告   
 [4]啟動實習環境
