@@ -19,7 +19,7 @@ Hitcon_DataMining....
 ```
 ```
 老師ftp到崑山
-學生電出帳號密碼
+學生唸出帳號密碼
 ```
 # websecurity(1hr)
 ```
