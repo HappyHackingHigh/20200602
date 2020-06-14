@@ -31,14 +31,14 @@ Hitcon_DataMining....
 ```
 [1]下載FortiClient
 https://www.forticlient.com/downloads
-[2]使用FortiClient透過vpn連線到CDX國家高速網路與計算中心
-[3]打開瀏覽器並登入
-   帳密上課時公告   
+[2]打開瀏覽器並登入  帳密上課時公告   
+https://cdx.nchc.org.tw/index.php
+[3]使用FortiClient透過vpn連線到CDX國家高速網路與計算中心
 [4]啟動實習環境
 [5]使用VNC連線登入測試
 ```
 
-# DOcker實習環境
+# Docker實習環境
 
 # CDX實習環境
 ```
